@@ -1,7 +1,7 @@
 # Healthcare-Analytics
 Link: https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics/#ProblemStatement
 
-Performance: Top 2%
+My Performance: Top 2%
 
 ## Problem Statement
 
