@@ -3,6 +3,8 @@ Link: https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analyti
 
 My Performance: Top 2%
 
+Final Model Chosen: Logistic Regression
+
 ROC-AUC Score Obtained: 0.63
 
 ## Problem Statement
