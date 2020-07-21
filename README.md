@@ -3,6 +3,8 @@ Link: https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analyti
 
 My Performance: Top 2%
 
+ROC-AUC Score Obtained: 0.63
+
 ## Problem Statement
 
 MedCamp organizes health camps in several cities with low work life balance. They reach out to working people and ask them to register for these health camps. For those who attend, MedCamp provides them facility to undergo health checks or increase awareness by visiting various stalls (depending on the format of camp). 
