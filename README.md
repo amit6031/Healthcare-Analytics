@@ -1,7 +1,7 @@
 # Healthcare-Analytics
 Link: https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics/#ProblemStatement
 
-My Performance: Top 2%
+My Performance: Top 2% (Total Participants ~ 14400)
 
 Final Model Chosen: Logistic Regression
 
