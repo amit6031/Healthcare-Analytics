@@ -7,7 +7,7 @@ Final Model Chosen: Logistic Regression
 
 ROC-AUC Score Obtained: 0.63
 
-One of the challenging things about this hackathon besides data cleaning and modeling, was that the participants needs to create training and test dataset (using other data files).
+One of the challenging things about this hackathon besides data cleaning and modeling, was that the participants needs to create training and test dataset (using 5 other data files) by choosing optimal number of features/parameters.
 
 ## Problem Statement
 
